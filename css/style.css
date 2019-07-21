@@ -8,3 +8,7 @@ body {
 a > .linkcard{
 	color: #3172ea;
 }
+
+.slider .indicators .indicator-item.active {
+	background-color: #283593;
+  }
